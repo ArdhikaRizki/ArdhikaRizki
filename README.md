@@ -47,7 +47,10 @@
 
 <p align="left">
   <!-- Add your social links here, example below -->
-  <a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:ardhikaz30@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" /></a>
+  <a href="https://instagram.com/ardhikarizki" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="instagram" height="30" width="40" />
+</a>
+
   <!-- Add more if needed -->
 </p>
